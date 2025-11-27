@@ -50,12 +50,32 @@ Comprehensive exploratory data analysis on the Titanic dataset to uncover surviv
 
 ---
 
+### 3. HR Analytics Dashboard - Tableau
+**Focus**: Interactive Business Intelligence Dashboard
+
+Built an end-to-end interactive HR Analytics Dashboard using Tableau to provide HR managers with both high-level KPIs and detailed employee insights.
+
+**Key Tasks**:
+- Data loading and field transformation in Tableau
+- Created calculated measures for employee metrics
+- Built multiple visualizations (KPI cards, bar charts, tables)
+- Designed interactive dashboard with filtering capabilities
+- Published to Tableau Public cloud
+
+**Dataset**: 7,950 employees from HumanResources-Kenyan.csv
+**Key Metrics**: Active employees (1,000), Terminated (8,950), Department and salary analysis
+
+[View Project →](./tableau-dashboard)
+
+---
+
 ## Technical Skills Demonstrated
 
 - **Languages**: Python
 - **Libraries**: pandas, numpy, matplotlib, seaborn
-- **Techniques**: Data cleaning, statistical analysis, data visualization, exploratory data analysis
-- **Tools**: Jupyter Notebook, Kaggle
+- **Visualization Tools**: Tableau Public
+- **Techniques**: Data cleaning, statistical analysis, data visualization, exploratory data analysis, interactive dashboards
+- **Tools**: Jupyter Notebook, Kaggle, Tableau
 
 ## Project Structure
 
@@ -65,9 +85,12 @@ data-analytics-portfolio/
 │   ├── netflix-data-wrangling.ipynb
 │   ├── cleaned_netflix.csv
 │   └── README.md
-└── titanic-eda/
-    ├── titanic-eda.ipynb
-    ├── cleaned_titanic.csv
+├── titanic-eda/
+│   ├── titanic-eda.ipynb
+│   ├── cleaned_titanic.csv
+│   └── README.md
+└── tableau-dashboard/
+    ├── Tableau Workbook.twbx
     └── README.md
 ```
 
