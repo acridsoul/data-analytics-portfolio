@@ -69,13 +69,34 @@ Built an end-to-end interactive HR Analytics Dashboard using Tableau to provide 
 
 ---
 
+### 4. Hospitality Revenue Dashboard - Power BI
+**Focus**: Business Intelligence and DAX Analytics
+
+Developed a comprehensive BI solution for AtliQ Grands hotel chain using Power BI, featuring star schema data modeling, DAX calculations, and interactive visualizations for revenue optimization.
+
+**Key Tasks**:
+- Data transformation with Power Query
+- Built star schema with fact and dimension tables
+- Created DAX measures (Revenue, ADR, RevPAR, Occupancy %)
+- Designed interactive dashboard with slicers and KPI cards
+- Implemented custom tooltips and trend analysis
+
+**Dataset**: Hotel booking data with 5 tables (date, hotels, rooms, bookings, aggregated bookings)
+**Key Insight**: Revenue: 1.69bn, Occupancy: 57.8%, identified lack of dynamic pricing strategy
+
+[View Project →](./powerbi-project)
+
+---
+
 ## Technical Skills Demonstrated
 
 - **Languages**: Python
 - **Libraries**: pandas, numpy, matplotlib, seaborn
-- **Visualization Tools**: Tableau Public
-- **Techniques**: Data cleaning, statistical analysis, data visualization, exploratory data analysis, interactive dashboards
-- **Tools**: Jupyter Notebook, Kaggle, Tableau
+- **BI & Visualization Tools**: Tableau Public, Power BI Desktop
+- **Data Modeling**: Star schema, relational databases
+- **Analytics**: DAX (Data Analysis Expressions), statistical analysis, KPI development
+- **Techniques**: Data cleaning, ETL (Power Query), data visualization, exploratory data analysis, interactive dashboards
+- **Tools**: Jupyter Notebook, Kaggle, Tableau, Power BI
 
 ## Project Structure
 
@@ -89,8 +110,12 @@ data-analytics-portfolio/
 │   ├── titanic-eda.ipynb
 │   ├── cleaned_titanic.csv
 │   └── README.md
-└── tableau-dashboard/
-    ├── Tableau Workbook.twbx
+├── tableau-dashboard/
+│   ├── Tableau Workbook.twbx
+│   └── README.md
+└── powerbi-project/
+    ├── powerbi-file.pbix
+    ├── wk4files/
     └── README.md
 ```
 
