@@ -73,4 +73,4 @@ This project demonstrates hands-on data wrangling skills using the Netflix Movie
 
 ## Kaggle Notebook
 
-View the interactive notebook: [https://www.kaggle.com/code/austingithinji/austin-githinji-cs-eh03-25417](https://www.kaggle.com/code/austingithinji/austin-githinji-cs-eh03-25417)
+View the interactive notebook: [https://www.kaggle.com/code/austingithinji/austin-githinji-m-cs-eh03-25417](https://www.kaggle.com/code/austingithinji/austin-githinji-m-cs-eh03-25417)
