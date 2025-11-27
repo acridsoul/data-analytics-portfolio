@@ -115,4 +115,4 @@ Social and economic factors (gender and class) played a crucial role in survival
 
 ## Kaggle Notebook
 
-View the interactive notebook: [https://www.kaggle.com/code/austingithinji/austin-githinji-cs-eh03-25417](https://www.kaggle.com/code/austingithinji/austin-githinji-cs-eh03-25417)
+View the interactive notebook: [https://www.kaggle.com/code/austingithinji/austin-githinji-t-cs-eh03-25417](https://www.kaggle.com/code/austingithinji/austin-githinji-t-cs-eh03-25417)
